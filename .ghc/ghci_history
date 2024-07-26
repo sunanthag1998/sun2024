@@ -1,0 +1,76 @@
+init[1,2,3,4,5]
+last[1,2,3,4,5]
+reverse [1,2,3,4,5]
+reverse[1,2,3,4,5]
+last [1,2,,4,5]
+reverse[1,2,3,4,5]
+[1,2,3]++[4,5]
+product[1,2,3,4,5]
+sum[1,2,3,4,5]
+length[1,2,3,4,5]
+drop 3 [1,2,3,4,5]
+drop 3
+take 3 [1,2,3,4,5]
+ [1,2,3,4,5] ++ [6,7]
+ product  [1,2,3,4,5]
+sum [1,2,3,4,5]
+length  [1,2,3,4,5]
+drop 3 [1,2,3,4,5]
+take 3 [1,2,3,4,5]
+take [1,2,3,4,5]
+[1,2,3,4,5]!!0
+tail[1,2,3,4,5]
+head [1,2,3,4]
+average1 [1..7]
+average1 [1..5]
+average1 [1,2,3,4,5,6,7]
+average1 [1,2,3,4,5] 
+:q
+average1 4
+:q
+factorial 5
+:q
+quadruple 2
+quadruple2 2
+:q
+quadruple3 3
+:q
+quadruple3 3
+quadruple2 2
+:q
+quadruple 2
+quadruple2 2
+quadruple 2
+:q
+quadruple2 2
+quadruple2
+quadruple 2
+quadruple2
+quadruple 2
+:q
+quadruple 2
+qudruple 2
+quadruple2
+double 7
+double 2
+:q
+cd desktop
+cd desltop
+ghci double.hs
+:q
+ghci double.hs
+:q
+:q
+init [1,2,3,4,5]
+[1,2,3] ++ [4,5]
+product  [1,2,3]
+sum  [1,2,3,4,5]
+length [1,2,3,4,5]
+drop 3 [1,2,3,4,5]
+take 3 [1,2,3,4,5]
+[1,2,3,4,5] !!0
+[1,2,3,4,5] !!2
+tail [1,2,3,4,5]
+last [1,2,3,4,5]
+head[6,7,3]
+head [1,2,3,4,5]

@@ -1,0 +1,2 @@
+{"timestamp":28283,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"extensions-migration-in-import-wizard-116-rollout","reason":"feature-conflict","glean_timestamp":"1721965013122"}}
+{"timestamp":57713,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"extensions-migration-in-import-wizard-116-rollout","reason":"feature-conflict","glean_timestamp":"1721965043252"}}

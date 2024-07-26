@@ -1,0 +1,83 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "Gigabyte Technology Co., Ltd.",
+    "Product": "H610M H V2 DDR4",
+    "Family": "H610 MB"
+  },
+  "BIOS": {
+    "Vendor": "American Megatrends International, LLC.",
+    "Version": "F24"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "4692"
+    }
+  ],
+  "RAM": 16.1,
+  "Partitions": [
+    95.5,
+    76.3,
+    4.7,
+    76.3,
+    95.5,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "410mmx230mm",
+      "Resolution": "1360x768",
+      "Frequency": "59.62"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 22.04.3 LTS \"Jammy Jellyfish\" - Release amd64 (20230807.2)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "manual",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "5": "console_setup",
+      "45": "prepare",
+      "166": "partman",
+      "196": "partman",
+      "197": "partman",
+      "200": "partman",
+      "214": "partman",
+      "215": "partman",
+      "223": "partman",
+      "231": "partman",
+      "233": "partman",
+      "245": "partman",
+      "246": "partman",
+      "256": "partman",
+      "258": "partman",
+      "268": "partman",
+      "271": "partman",
+      "282": "partman",
+      "285": "partman",
+      "287": "partman",
+      "291": "timezone",
+      "294": "usersetup",
+      "306": "user_done",
+      "521": "done"
+    }
+  }
+}

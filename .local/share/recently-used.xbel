@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/dbit/MULTIBOOT/ITLAB%201%20to%209%20ACL&apos;s.xls" added="2024-02-03T09:05:37.512211Z" modified="2024-02-03T09:06:00.935625Z" visited="2024-02-03T09:05:37.512212Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --calc %U&apos;" modified="2024-02-03T09:05:37.512213Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-02-03T09:06:00.935624Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/Downloads/db_connection.py" added="2024-03-19T04:13:57.246377Z" modified="2024-03-19T04:13:57.628522Z" visited="2024-03-19T04:13:57.246378Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-03-19T04:13:57.628521Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/Desktop/sort_array.pl" added="2024-04-25T05:33:17.160068Z" modified="2024-04-25T05:37:15.387217Z" visited="2024-04-25T05:33:17.160070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-perl"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-04-25T05:37:15.387213Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/dbit/TANUSH%20(F)/Q5.SORT%20ARRAY.txt" added="2024-04-25T05:37:45.618996Z" modified="2024-04-25T05:37:45.618999Z" visited="2024-04-25T05:37:45.618996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-04-25T05:37:45.618998Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/Desktop/sort_array1.pl" added="2024-04-25T05:42:37.066596Z" modified="2024-04-25T05:54:24.415530Z" visited="2024-04-25T05:42:37.066596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-perl"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-04-25T05:54:24.415525Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/array.sh" added="2024-04-25T06:45:37.526482Z" modified="2024-04-25T07:07:13.098738Z" visited="2024-04-25T06:45:37.526483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-04-25T07:07:13.098733Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/reeve.pl" added="2024-04-25T07:07:27.533956Z" modified="2024-04-25T07:07:27.818300Z" visited="2024-04-25T07:07:27.533958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-04-25T07:07:27.818298Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/Documents/sorted_array.pl" added="2024-04-26T05:13:26.446277Z" modified="2024-04-26T05:57:41.836685Z" visited="2024-04-26T05:13:26.446279Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-perl"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-04-26T05:57:41.836680Z" count="28"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/Desktop/double.hs" added="2024-07-10T04:14:21.007524Z" modified="2024-07-10T04:19:10.161133Z" visited="2024-07-10T04:14:21.007526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-07-10T04:19:10.161129Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/doublee.hs" added="2024-07-10T04:22:41.508439Z" modified="2024-07-10T05:14:42.971923Z" visited="2024-07-10T04:22:41.508441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-07-10T05:14:42.971921Z" count="81"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/factorial.hs" added="2024-07-10T04:43:15.934456Z" modified="2024-07-10T05:09:44.394491Z" visited="2024-07-10T04:43:15.934458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-07-10T05:09:44.394487Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/Downloads/PP-ITL701-Datascience%20lab%20II_Sunantha-2023.docx" added="2024-07-12T03:38:50.323301Z" modified="2024-07-12T05:27:44.755848Z" visited="2024-07-12T03:38:50.323301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-07-12T05:27:44.755847Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/Downloads/DevOps_2024_Expt-1.docx" added="2024-07-18T04:08:00.419622Z" modified="2024-07-18T04:18:10.932755Z" visited="2024-07-18T04:08:00.419623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-07-18T04:18:10.932755Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dbit/Downloads/Experiment_1%20Version%20Control%20using%20GIT%20(5).docx" added="2024-07-25T07:40:22.685268Z" modified="2024-07-25T07:40:23.025443Z" visited="2024-07-25T07:40:22.685268Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2024-07-25T07:40:23.025442Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
